@@ -1,11 +1,10 @@
 <p align="center">
   <h1 align="center">DragText: Rethinking Text Embedding in Point-based Image Editing</h1>
-  <h3 align="center">Round 1 Accepted @ WACV 2025</h3>
+  <h3 align="center">ORAL @ WACV 2025</h3>
   <p align="center">
     <a href="https://micv-yonsei.github.io/author/gayoon-choi/"><strong>Gayoon Choi</strong></a> · 
     <a href="https://micv-yonsei.github.io/author/taejin-jeong/"><strong>Taejin Jeong</strong></a> · 
     <a href="https://micv-yonsei.github.io/author/sujung-hong/"><strong>Sujung Hong</strong></a> · 
-    <a href="https://micv-yonsei.github.io/author/jaehoon-joo/"><strong>Jaehoon Joo</strong></a> · 
     <a href="https://micv-yonsei.github.io/#professor"><strong>Seong Jae Hwang</strong></a>
     <br>
     <b>Yonsei University</b>
