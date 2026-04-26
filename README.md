@@ -10,7 +10,7 @@
     <b>Yonsei University</b>
   </p>
   <p align="center">
-    <a href="https://arxiv.org/abs/2407.17843"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2306.14435-b31b1b.svg"></a>
+    <a href="https://arxiv.org/abs/2407.17843"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2407.17843-b31b1b.svg"></a>
     <a href="https://micv-yonsei.github.io/dragtext2025/"><img alt='Project Page' src="https://img.shields.io/badge/Project-Website-orange"></a>
     <!-- <a href=""><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a> -->
   </p>
